@@ -20,15 +20,15 @@
      id="defs2" />
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="1912"
+     inkscape:window-y="-3"
+     inkscape:window-x="-8"
      inkscape:window-height="1017"
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="288.54607"
-     inkscape:cx="172.28906"
+     inkscape:cx="-65.568083"
      inkscape:zoom="0.7"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,23 +52,26 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.88000011;stroke-opacity:0.93333333"
-       id="rect4487"
-       width="150"
-       height="100"
-       x="30.143999"
-       y="166.856"
-       rx="5"
-       ry="5" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.43001837;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.88000011;stroke-opacity:0.93333333"
-       id="rect4487-9"
-       width="209.56998"
-       height="159.56998"
-       x="0.21500918"
-       y="137.21501"
-       rx="6.9856658"
-       ry="7.9784985" />
+    <g
+       id="g8309">
+      <rect
+         ry="5"
+         rx="5"
+         y="166.856"
+         x="30.143999"
+         height="100"
+         width="150"
+         id="rect4487"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.28799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.88000011;stroke-opacity:0.93333333" />
+      <rect
+         ry="7.9784985"
+         rx="6.9856658"
+         y="137.21501"
+         x="0.21500918"
+         height="159.56998"
+         width="209.56998"
+         id="rect4487-9"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.43001837;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.88000011;stroke-opacity:0.93333333" />
+    </g>
   </g>
 </svg>
